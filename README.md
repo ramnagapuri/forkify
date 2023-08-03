@@ -2,7 +2,7 @@
 
 ## A Web App to search Recipe using the Forkify-API
 
-- Project Link - [forkify](forkify-search.vercel.app)
+- Project Link - [forkify](https://forkify-search.vercel.app/)
 
 ## Topics Covered
 
